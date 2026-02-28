@@ -30,10 +30,3 @@ Tools & Technologies
 - Data Visualization
 - Data Cleaning & Modeling
 
-
-
-
-
----
-
-⭐ If you found this project useful, consider giving it a star!
