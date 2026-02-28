@@ -31,9 +31,6 @@ Tools & Technologies
 - Data Cleaning & Modeling
 
 
- Files Included
-
-- "E-commerce Sales Dashboard.pbix" — Main Power BI dashboard file
 
 
 
